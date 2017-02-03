@@ -7,5 +7,4 @@ Quite straight-forward implementation of multivariate linear regression in pytho
 ##Dependencies
 
 * numpy
-* pandas
 * scikit-learn
